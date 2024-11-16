@@ -1,4 +1,3 @@
-gamegamegamegamegame (robanik gg)
 -- the code is extremely messy because something in the code editor fucked it up all at once and for some reason removed indents in some parts of the code while kept indents in some other parts of the code LOL
 local LOAD_TIME = tick()
 local queueonteleport = queue_on_teleport or queueonteleport
@@ -112,7 +111,7 @@ for i, v in pairs(game.RobloxReplicatedStorage:GetDescendants()) do
 end
 
 task.spawn(function()
-    local discord = loadstring(game:HttpGet("https://raw.githubusercontent.com/wyvernleaker/WyvernUI/main/UI.lua"))()
+    local discord = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robanik/TOOLROB-GAMEPASS/refs/heads/main/FILE-G"))()
     local win = discord:Window("Robanik - Donation free -- no all games))")
     local serv = win:Server("ToolRob", "http://www.roblox.com/asset/?id=6031075938")
     local main = serv:Channel("Home")
