@@ -9,4 +9,4 @@ No Scope Arcade
 и т.д
 ГЛАВНОЕ СКРИПТЫ НЕ ВСЕ ЗАГРУЖЕНЫ СКОРО БУДУТ БОЛЬШЕЕ А ТАКЖЕ НЕ СОВЕТУЮ КОПИРОВАТЬ ЭТО ВСЕ В (ToolRob)
 ВОТ ЧТО НАДО ИСПОЛЬЗОВАТЬ
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Robanik/TOOLROB-GAMEPASS/refs/heads/main/Toolrob))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robanik/TOOLROB-GAMEPASS/refs/heads/main/Toolrob"))()
